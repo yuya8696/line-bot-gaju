@@ -70,7 +70,7 @@ function remindToInform109PiarDay() {
   pushTemplate(message);
 }
 
-// よっちゃんに振込のリマインド
+// 振込のリマインド
 function remindYachin() {
   var message = [
     {
